@@ -1,0 +1,3 @@
+*.vscode
+ecos-remote-v*.tar.gz
+remote-service
